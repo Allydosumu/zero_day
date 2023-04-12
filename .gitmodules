@@ -1,0 +1,6 @@
+[submodule "zero_day-1"]
+	path = zero_day-1
+	url = https://github.com/Allydosumu/zero_day.git
+[submodule "zero_day-2"]
+	path = zero_day-2
+	url = https://github.com/Allydosumu/zero_day.git
